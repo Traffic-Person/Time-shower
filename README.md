@@ -6,6 +6,8 @@ A time shower consisting of a oled display 2 buttons a raspberry pi pico and 4 l
 
 # Pcb
 <img width="703" height="669" alt="image" src="https://github.com/user-attachments/assets/ea094a83-8602-4001-ac38-908c89a2c45d" />
+<img width="474" height="577" alt="image" src="https://github.com/user-attachments/assets/3b9ad2c8-19cc-4509-b7ae-0c3d9ab6c6a0" />
+
 (mounting holes so i can mount it to whatever i want)
 
 # Case
