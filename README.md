@@ -10,3 +10,6 @@ A time shower consisting of a oled display 2 buttons a raspberry pi pico and 4 l
 
 # Case
 No case i have decided to make it be able to mount anywhere! Plastic, Cardboard, metal you name it and i also like the look of bare electronics
+
+# Pcb Render
+<img width="1920" height="722" alt="timeshower_2025-Dec-07_05-54-31PM-000_CustomizedView27031314052" src="https://github.com/user-attachments/assets/e24adda5-0718-4969-b973-3f976a5a42c7" />
